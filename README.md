@@ -4,6 +4,6 @@ This is the start of my professional portfolio. It will use AWS and ReactJS.
 
 ## Technologies Used
 
-Scoop
-Git / Github
+Scoop  
+Git / Github  
 SSH
