@@ -1,2 +1,3 @@
-# my-portfolio
-My professional portfolio
+# Chad Elkin's portfolio
+
+This is the start of my professional portfolio. It will use AWS and ReactJS.
