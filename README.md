@@ -6,7 +6,7 @@ This is the start of my professional portfolio. It will use AWS and ReactJS.
 
 Scoop  
 Git / Github  
-SSH
-S3
-CloudFront
-CodeBuild
+SSH  
+S3  
+CloudFront  
+CodeBuild  
