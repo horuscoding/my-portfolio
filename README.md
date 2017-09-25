@@ -10,3 +10,5 @@ SSH
 S3  
 CloudFront  
 CodeBuild  
+Lambda  
+Python  
